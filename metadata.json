@@ -1,0 +1,6 @@
+{
+  "name": "OMG::CONCORD - Autonomous Agent Containment & Safety Architecture",
+  "description": "System-wide multi-layered safety architecture and execution controller to enforce bounded autonomy, authority firewalls, independent verification, and cryptographic audit ledgers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
